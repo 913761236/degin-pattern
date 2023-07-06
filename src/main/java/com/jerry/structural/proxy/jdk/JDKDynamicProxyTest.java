@@ -1,7 +1,7 @@
-package com.jerry.behavioral.proxy.jdk;
+package com.jerry.structural.proxy.jdk;
 
-import com.jerry.behavioral.proxy.example.IUserDao;
-import com.jerry.behavioral.proxy.example.UserDaoImpl;
+import com.jerry.structural.proxy.example.IUserDao;
+import com.jerry.structural.proxy.example.UserDaoImpl;
 
 /**
  * JDK动态代理实现<br/>

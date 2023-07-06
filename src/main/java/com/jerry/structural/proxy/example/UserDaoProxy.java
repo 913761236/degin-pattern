@@ -1,4 +1,4 @@
-package com.jerry.behavioral.proxy.example;
+package com.jerry.structural.proxy.example;
 
 /**
  * 静态代理类

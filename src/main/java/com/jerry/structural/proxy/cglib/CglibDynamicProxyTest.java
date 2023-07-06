@@ -1,4 +1,4 @@
-package com.jerry.behavioral.proxy.cglib;
+package com.jerry.structural.proxy.cglib;
 
 import java.util.List;
 
